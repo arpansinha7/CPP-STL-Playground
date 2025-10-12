@@ -7,6 +7,11 @@ Thank you for your interest in contributing! By following these guidelines, you 
 1. **Fork the repository**  
    Make your own copy of this repo to work on.
 
+    - Click the Fork button at the top-right corner of the page.
+   
+    - Clone your fork – Download your forked repo locally:
+      git clone https://github.com/arpansinha7/CPP-STL-Playground.git
+
 2. **Create a new branch**  
    Use descriptive branch names, for example:
    - `vectors-update`
