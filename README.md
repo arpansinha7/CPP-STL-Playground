@@ -28,43 +28,11 @@ It’s designed for learners who want to explore STL with clean, commented code 
 
 Stay tuned as more examples will be added soon!
 
-## Collaboration Guidelines
+## Collaboration
 
-We welcome contributions from everyone! To keep things smooth and organized, please follow these steps:
+Contributions are welcome!  
 
-1. **Fork the repository**  
-   Make your own copy of this repo to work on.
-
-2. **Create a new branch**  
-   Use descriptive branch names, for example:
-   - `vectors-update`
-   - `map-examples`
-
-3. **Make your changes**  
-   - Keep examples clear and concise.  
-   - Add comments explaining STL usage.  
-   - Follow existing code style.
-
-4. **Open a Pull Request (PR)**  
-   - Provide a clear title and description of your changes.  
-   - Link any related discussions or issues if applicable.  
-
-5. **Engage in discussions if needed**  
-   - Use the Discussions tab to ask questions or suggest new features before submitting a PR.  
-
-6. **Be respectful and patient**  
-   - Review and merge may take some time. Feedback will be given if changes are required.  
-
-Thank you for helping make this STL Cheatsheet better!
-
-**Tips for contributors:**
-- Follow the existing code style.
-- Keep examples short and readable.
-- Add comments explaining STL usage.
-- If you have ideas for new STL components, open an issue first to discuss it before implementation.
-
-By following these guidelines, you help maintain a clean and useful STL Cheatsheet for everyone.
-
+Please see [CONTRIBUTING.md] for guidelines on forking, branching, and submitting pull requests.
 
 ## License
 
