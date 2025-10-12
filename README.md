@@ -1,9 +1,6 @@
 # CPP-STL-Playground
 Learn, practice, and contribute C++ STL examples
 
-# CPP-STL-Playground
-Learn, practice, and contribute C++ STL examples
-
 # STL Cheatsheet
 
 This repository contains examples and explanations of various C++ STL components.
