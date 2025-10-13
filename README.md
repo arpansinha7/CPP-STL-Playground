@@ -12,11 +12,14 @@ It’s designed for learners who want to explore STL with clean, commented code 
 ## Currently Included
 
 - **Vectors**: Dynamic arrays with useful member functions and iterators.  
+  
+- **Lists** : Doubly linked lists that allow fast insertion and deletion from both      ends.  
+  Unlike vectors, lists do not provide random access, but iterators remain valid even after insertion or deletion.
+
   (More STL components will be added gradually.)
 
 ## Upcoming STL Components
 
-- **Lists**  
 - **Deques**  
 - **Pairs**  
 - **Stacks**  
