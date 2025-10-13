@@ -39,14 +39,14 @@ int main()
     // Traversing using iterator
     cout << "Traversal using iterator: ";
     // 'auto' automatically deduces the type of variable (here: vector<int>::iterator)
-    for (auto it = vec.begin(); it != vec.end(); ++it)
+    for (auto it = vec.begin(); it != vec.end(); it++)
         cout << *it << " ";
     cout << endl;
 
     // Traversing using reverse iterator
     cout << "Traversal using reverse iterator: ";
     // 'auto' deduces this as vector<int>::reverse_iterator
-    for (auto i = vec.rbegin(); i != vec.rend(); ++i)
+    for (auto i = vec.rbegin(); i != vec.rend(); i++)
         cout << *i << " ";
     cout << endl;
 
