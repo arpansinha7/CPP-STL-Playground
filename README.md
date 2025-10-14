@@ -16,11 +16,14 @@ It’s designed for learners who want to explore STL with clean, commented code 
 - **Lists** : Doubly linked lists that allow fast insertion and deletion from both      ends.  
   Unlike vectors, lists do not provide random access, but iterators remain valid even after insertion or deletion.
 
+  - **Deques**  : Double-ended queues that allow fast insertion and deletion from both the front and the back.
+  They provide random access to elements (like vectors) but manage storage in multiple dynamically allocated blocks, making middle insertions less efficient.
+
   (More STL components will be added gradually.)
 
 ## Upcoming STL Components
 
-- **Deques**  
+
 - **Pairs**  
 - **Stacks**  
 - **Queues**  
