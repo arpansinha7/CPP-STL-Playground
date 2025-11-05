@@ -22,13 +22,12 @@ It’s designed for learners who want to explore STL with clean, commented code 
   - **Pairs**  : A pair is a simple conatiner from C++ Standard Template Library
   that holds two elements possibly of different data types.
   
+  - **Stacks**  : Stack is a linear data structure which follow Last In, First Out (LIFO) Principle which means the element inserted at last will be removed first
+
   (More STL components will be added gradually.)
 
 ## Upcoming STL Components
 
-
-
-- **Stacks**  
 - **Queues**  
 - **Priority Queues**  
 - **Maps & Multimaps**  
