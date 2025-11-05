@@ -19,12 +19,15 @@ It’s designed for learners who want to explore STL with clean, commented code 
   - **Deques**  : Double-ended queues that allow fast insertion and deletion from both the front and the back.
   They provide random access to elements (like vectors) but manage storage in multiple dynamically allocated blocks, making middle insertions less efficient.
 
+  - **Pairs**  : A pair is a simple conatiner from C++ Standard Template Library
+  that holds two elements possibly of different data types.
+  
   (More STL components will be added gradually.)
 
 ## Upcoming STL Components
 
 
-- **Pairs**  
+
 - **Stacks**  
 - **Queues**  
 - **Priority Queues**  
