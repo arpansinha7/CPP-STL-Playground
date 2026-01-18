@@ -26,14 +26,14 @@ It’s designed for learners who want to explore STL with clean, commented code 
 
   - **Maps** : Map is an ordered associative data structure that stores data as (key, value) pairs with unique keys, allowing fast insertion, Deletion and searching.
 
+  - **Unordered Maps** : Unordered Map is an associative container that stores data as (key, value) pairs with unique keys where elements are stored using hashing, so no specific order maintained.
   (More STL components will be added gradually.)
 
 ## Upcoming STL Components
 
 - **Queues**  
 - **Priority Queues**  
-- **Multimaps**  
-- **Unordered Maps**  
+- **Multimaps**    
 - **Sets**
 
 Stay tuned as more examples will be added soon!
