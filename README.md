@@ -24,13 +24,15 @@ It’s designed for learners who want to explore STL with clean, commented code 
   
   - **Stacks**  : Stack is a linear data structure which follow Last In, First Out (LIFO) Principle which means the element inserted at last will be removed first
 
+  - **Maps** : Map is an ordered associative data structure that stores data as (key, value) pairs with unique keys, allowing fast insertion, Deletion and searching.
+
   (More STL components will be added gradually.)
 
 ## Upcoming STL Components
 
 - **Queues**  
 - **Priority Queues**  
-- **Maps & Multimaps**  
+- **Multimaps**  
 - **Unordered Maps**  
 - **Sets**
 
